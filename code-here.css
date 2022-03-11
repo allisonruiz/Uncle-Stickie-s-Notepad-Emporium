@@ -1,8 +1,15 @@
-#classic {
+#classic { padding: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
 
 }
 
-#modern {
+#modern { padding: 1.5em;
+    background-color: #ffcc00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+    box-shadow: 2px 2px 4px silver;
+    
 
 }
 
@@ -10,11 +17,11 @@
 
 }
 
-#elise {
+#elise { font-family: Apple chancery, cursive;
 
 }
 
-#one, #two  {
+#doubles {
 
 }
 
